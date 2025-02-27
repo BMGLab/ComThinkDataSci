@@ -57,12 +57,12 @@ file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Variables_and_Data_Typ
 file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Operators_and_Expressions.ipynb)
 
 
-`Data_Structures.ipynb` - [Download the
-file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Data_Structures.ipynb)
-
-
 `Control_Structures.ipynb` - [Download the
 file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Control_Structures.ipynb)
+
+
+`Data_Structures.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Data_Structures.ipynb)
 
 
 `Functions_and_Modules.ipynb` - [Download the
