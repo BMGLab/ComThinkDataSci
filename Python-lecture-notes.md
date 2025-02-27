@@ -24,6 +24,52 @@
 2. Install the downloaded file by following the setup instructions.
 3. Know the installation directory in case troubleshooting is needed.
 
+
+
+## Preparation Checklist
+
+### 1. Google Account
+
+Ensure you have an active Google account to access Google Colab. If you
+don’t have one, [create a Google
+account](https://accounts.google.com/signup).
+
+### 2. Install Required Software (Optional)
+
+While Google Colab eliminates the need for local installations, ensure
+your local machine has: - A modern browser (e.g., Chrome, Firefox, or
+Edge). - Stable internet connection.
+
+### 3. Access the Tutorial Notebook
+
+Download the tutorial notebook provided for this session: - **File
+Name**: `Introduction_to_Python.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Introduction_to_Python.ipynb).
+
+
+For the other practices, please fetch the files:
+
+`Variables_and_Data_Types.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Variables_and_Data_Types.ipynb)
+
+
+`Operators_and_Expressions.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Operators_and_Expressions.ipynb)
+
+
+`Data_Structures.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Data_Structures.ipynb)
+
+
+`Control_Structures.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Control_Structures.ipynb)
+
+
+`Functions_and_Modules.ipynb` - [Download the
+file](https://github.com/BMGLab/ComThinkDataSci/blob/main/Functions_and_Modules.ipynb)
+
+
+
 ---
 
 ## Lecture 2: Python Basics
