@@ -13,6 +13,7 @@
 2. Python can be used for desktop applications, games, mobile applications, web development, and networking.
 3. Python code is simple, easy to read, and does not need compilation.
 4. Python is cross-platform and can run on Linux, Windows, Mac OS X, MS-DOS, iOS, and Android.
+Note: Please read this article: [link](https://www.alibabacloud.com/blog/scientific-analysis-of-large-scale-data-based-on-the-distributed-python-capabilities-of-maxcompute_598320)
 
 ### Python Versions
 1. There are two main versions: Python 2 and Python 3.
